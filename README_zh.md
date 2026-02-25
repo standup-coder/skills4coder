@@ -20,15 +20,8 @@
 tech-skills-tree/
 ├── README.md                     # 项目概述
 ├── LICENSE                       # 项目许可证
-├── CODE_OF_CONDUCT.md            # 行为准则
-├── CONTRIBUTING.md               # 贡献指南
-├── ROADMAP.md                    # 项目路线图
-├── SUMMARY.md                    # 项目摘要
 ├── docs/                         # 文档中心
 │   ├── index.md                 # 文档中心入口
-│   ├── getting-started/         # 入门指南
-│   │   ├── user-guide.md        # 用户手册
-│   │   └── quick-start.md       # 快速入门指南
 │   ├── dev-skills/              # 开发者技能
 │   │   ├── overview.md          # 开发者技能概览
 │   │   └── skills-lists/        # 开发者技能清单按级别
@@ -38,12 +31,9 @@ tech-skills-tree/
 │   ├── testing-skills/          # 测试技能
 │   │   ├── overview.md          # 测试技能概览
 │   │   └── skills-lists/        # 测试技能清单按级别
-│   ├── ops-skills/              # 运维技能
-│   │   ├── overview.md          # 运维技能概览
-│   │   └── skills-lists/        # 运维技能清单按级别
-│   └── community/               # 社区支持
-│       ├── faq.md               # 常见问题
-│       └── contributing-guide.md # 贡献指南
+│   └── ops-skills/              # 运维技能
+│       ├── overview.md          # 运维技能概览
+│       └── skills-lists/        # 运维技能清单按级别
 ```
 
 ## 角色与专业化

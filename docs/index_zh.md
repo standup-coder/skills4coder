@@ -16,46 +16,46 @@
 按技术角色组织的综合技能树：
 
 #### 开发者技能
-- [开发者技能概览](dev-skills/overview.md) - 开发者技能的完整概览
+- [开发者技能概览](dev-skills/overview.md) | [中文](dev-skills/overview_zh.md) - 开发者技能的完整概览
 - **编程基础**
-  - [初学者技能](dev-skills/skills-lists/beginner.md) - 新开发者的必要编程技能
-  - [中级技能](dev-skills/skills-lists/intermediate.md) - 核心开发实践和模式
-  - [高级技能](dev-skills/skills-lists/advanced.md) - 高级开发技术
-  - [专家技能](dev-skills/skills-lists/expert.md) - 架构和领导技能
+  - [初学者技能](dev-skills/skills-lists/beginner.md) | [中文](dev-skills/skills-lists/beginner_zh.md) - 新开发者的必要编程技能
+  - [中级技能](dev-skills/skills-lists/intermediate.md) | [中文](dev-skills/skills-lists/intermediate_zh.md) - 核心开发实践和模式
+  - [高级技能](dev-skills/skills-lists/advanced.md) | [中文](dev-skills/skills-lists/advanced_zh.md) - 高级开发技术
+  - [专家技能](dev-skills/skills-lists/expert.md) | [中文](dev-skills/skills-lists/expert_zh.md) - 架构和领导技能
 - **专业领域**：
-  - [前端开发](dev-skills/specializations/frontend.md)
-  - [后端开发](dev-skills/specializations/backend.md)
-  - [全栈开发](dev-skills/specializations/fullstack.md)
-  - [移动开发](dev-skills/specializations/mobile.md)
-  - [数据工程](dev-skills/specializations/data.md)
-  - [机器学习](dev-skills/specializations/ml.md)
+  - [前端开发](dev-skills/specializations/frontend.md) | [中文](dev-skills/specializations/frontend_zh.md)
+  - [后端开发](dev-skills/specializations/backend.md) | [中文](dev-skills/specializations/backend_zh.md)
+  - [全栈开发](dev-skills/specializations/fullstack.md) | [中文](dev-skills/specializations/fullstack_zh.md)
+  - [移动开发](dev-skills/specializations/mobile.md) | [中文](dev-skills/specializations/mobile_zh.md)
+  - [数据工程](dev-skills/specializations/data.md) | [中文](dev-skills/specializations/data_zh.md)
+  - [机器学习](dev-skills/specializations/ml.md) | [中文](dev-skills/specializations/ml_zh.md)
 
 #### 架构师技能
-- [架构师技能概览](arch-skills/overview.md) - 架构师技能的完整概览
+- [架构师技能概览](arch-skills/overview.md) | [中文](arch-skills/overview_zh.md) - 架构师技能的完整概览
 - **架构类型**
-  - [解决方案架构](arch-skills/skills-lists/solution-arch.md)
-  - [企业架构](arch-skills/skills-lists/enterprise-arch.md)
-  - [云架构](arch-skills/skills-lists/cloud-arch.md)
-  - [安全架构](arch-skills/skills-lists/security-arch.md)
-  - [数据架构](arch-skills/skills-lists/data-arch.md)
+  - [解决方案架构](arch-skills/skills-lists/solution-arch.md) | [中文](arch-skills/skills-lists/solution-arch_zh.md)
+  - [企业架构](arch-skills/skills-lists/enterprise-arch.md) | [中文](arch-skills/skills-lists/enterprise-arch_zh.md)
+  - [云架构](arch-skills/skills-lists/cloud-arch.md) | [中文](arch-skills/skills-lists/cloud-arch_zh.md)
+  - [安全架构](arch-skills/skills-lists/security-arch.md) | [中文](arch-skills/skills-lists/security-arch_zh.md)
+  - [数据架构](arch-skills/skills-lists/data-arch.md) | [中文](arch-skills/skills-lists/data-arch_zh.md)
 
 #### 测试技能
-- [测试技能概览](testing-skills/overview.md) - 测试技能的完整概览
+- [测试技能概览](testing-skills/overview.md) | [中文](testing-skills/overview_zh.md) - 测试技能的完整概览
 - **测试级别**
-  - [手动测试](testing-skills/skills-lists/manual-testing.md)
-  - [测试自动化](testing-skills/skills-lists/test-automation.md)
-  - [性能测试](testing-skills/skills-lists/performance-testing.md)
-  - [安全测试](testing-skills/skills-lists/security-testing.md)
-  - [质量保证流程](testing-skills/skills-lists/qa-process.md)
+  - [手动测试](testing-skills/skills-lists/manual-testing.md) | [中文](testing-skills/skills-lists/manual-testing_zh.md)
+  - [测试自动化](testing-skills/skills-lists/test-automation.md) | [中文](testing-skills/skills-lists/test-automation_zh.md)
+  - [性能测试](testing-skills/skills-lists/performance-testing.md) | [中文](testing-skills/skills-lists/performance-testing_zh.md)
+  - [安全测试](testing-skills/skills-lists/security-testing.md) | [中文](testing-skills/skills-lists/security-testing_zh.md)
+  - [质量保证流程](testing-skills/skills-lists/qa-process.md) | [中文](testing-skills/skills-lists/qa-process_zh.md)
 
 #### 运维技能
-- [运维技能概览](ops-skills/overview.md) - 运维技能的完整概览
+- [运维技能概览](ops-skills/overview.md) | [中文](ops-skills/overview_zh.md) - 运维技能的完整概览
 - **运维领域**
-  - [基础设施](ops-skills/skills-lists/infrastructure.md)
-  - [DevOps & CI/CD](ops-skills/skills-lists/devops.md)
-  - [监控与可观测性](ops-skills/skills-lists/monitoring.md)
-  - [安全运维](ops-skills/skills-lists/secops.md)
-  - [平台工程](ops-skills/skills-lists/platform-engineering.md)
+  - [基础设施](ops-skills/skills-lists/infrastructure.md) | [中文](ops-skills/skills-lists/infrastructure_zh.md)
+  - [DevOps & CI/CD](ops-skills/skills-lists/devops.md) | [中文](ops-skills/skills-lists/devops_zh.md)
+  - [监控与可观测性](ops-skills/skills-lists/monitoring.md) | [中文](ops-skills/skills-lists/monitoring_zh.md)
+  - [安全运维](ops-skills/skills-lists/secops.md) | [中文](ops-skills/skills-lists/secops_zh.md)
+  - [平台工程](ops-skills/skills-lists/platform-engineering.md) | [中文](ops-skills/skills-lists/platform-engineering_zh.md)
 
 ### 社区与支持
 贡献者和社区成员的资源：

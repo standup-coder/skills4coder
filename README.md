@@ -20,15 +20,8 @@ Tech Skills Tree is an open-source project that provides comprehensive skill tre
 tech-skills-tree/
 ├── README.md                     # Project overview
 ├── LICENSE                       # Project license
-├── CODE_OF_CONDUCT.md            # Code of conduct
-├── CONTRIBUTING.md               # Contribution guidelines
-├── ROADMAP.md                    # Project roadmap
-├── SUMMARY.md                    # Project summary
 ├── docs/                         # Documentation hub
 │   ├── index.md                 # Documentation center entry
-│   ├── getting-started/         # Getting started guides
-│   │   ├── user-guide.md        # User manual
-│   │   └── quick-start.md       # Quick start guide
 │   ├── dev-skills/              # Developer skills
 │   │   ├── overview.md          # Developer skills overview
 │   │   └── skills-lists/        # Developer skill lists by level
@@ -38,14 +31,10 @@ tech-skills-tree/
 │   ├── testing-skills/          # Testing skills
 │   │   ├── overview.md          # Testing skills overview
 │   │   └── skills-lists/        # Testing skill lists by level
-│   ├── ops-skills/              # Operations skills
-│   │   ├── overview.md          # Operations skills overview
-│   │   └── skills-lists/        # Operations skill lists by level
-│   └── community/               # Community support
-│       ├── faq.md               # Frequently asked questions
-│       └── contributing-guide.md # Contribution guide
+│   └── ops-skills/              # Operations skills
+│       ├── overview.md          # Operations skills overview
+│       └── skills-lists/        # Operations skill lists by level
 └── .github/                     # GitHub configurations
-    └── ISSUE_TEMPLATE/          # Issue templates
 ```
 
 ## Roles & Specializations
