@@ -1,22 +1,22 @@
 ---
-name: New Skill Suggestion
-about: Suggest a new skill to add to the lists
-title: '[New Skill] '
+name: New Vibe Skill Suggestion
+about: Suggest a new vibe-focused skill to add to the lists
+title: '[New Vibe Skill] '
 labels: enhancement
 assignees: ''
 ---
 
-**Skill Level**
+**Vibe Skill Level**
 Which level should this skill belong to? (Beginner, Intermediate, Advanced, Expert)
 
-**Skill Category**
-What category does this skill fall under? (e.g. Web Development, Algorithms, Security, etc.)
+**Vibe Skill Category**
+What category does this skill fall under? (e.g. Mindful Practices, Creative Expression, Collaborative Joy, etc.)
 
 **Skill Name**
-The name of the skill to add
+The name of the vibe-focused skill to add
 
 **Description**
-Brief description of the skill and why it's important for developers to learn.
+Brief description of the skill and why it's important for developers to cultivate this aspect of coding.
 
-**Suggested Learning Resources**
-Any recommended resources for learning this skill.
+**Suggested Activities**
+Any recommended activities or exercises for developing this vibe skill.

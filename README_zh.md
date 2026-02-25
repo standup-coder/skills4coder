@@ -1,99 +1,99 @@
-# Skills4Coder
+# Vibe Coding 技能
 
-为各个级别的开发者提供全面技能清单和学习路线图。
+为 Vibe Coders（拥抱编程创意、协作和乐趣方面的开发者）提供的全面技能清单和学习路线图。
 
 ## 🌐 语言
 - [English](README.md) | [中文](README_zh.md)
 
 ## 概述
 
-Skills4Coder 是一个开源项目，旨在为现代开发人员提供一份全面、精心策划的技能和能力清单。无论您是希望成长的新手，想要填补知识空白的中级开发人员，还是指导他人的高级工程师，本项目都是您的指南。
+Vibe Coding 代表了一种编程哲学，强调在开发过程中融入创造力、协作和乐趣。该项目为不同经验级别的 Vibe Coders 提供技能清单，重点关注将技术技能与创意表达和社区建设相结合的编码独特方面。
 
 ## 结构
 
-项目按技能级别和技术领域组织：
+项目按技能级别和 Vibe 中心的开发领域组织：
 
 ```
-skills4coder/
-├── README.md                     # 项目概述 (英/中)
+vibe-coding-skills/
+├── README.md                     # 项目概述 (EN/ZH)
 ├── LICENSE                       # 项目许可证
 ├── CODE_OF_CONDUCT.md            # 行为准则
-├── CONTRIBUTING.md               # 贡献指南 (英/中)
-├── ROADMAP.md                    # 项目路线图 (英/中)
-├── SUMMARY.md                    # 项目摘要 (英/中)
+├── CONTRIBUTING.md               # 贡献指南 (EN/ZH)
+├── ROADMAP.md                    # 项目路线图 (EN/ZH)
+├── SUMMARY.md                    # 项目摘要 (EN/ZH)
 ├── docs/                        # 文档中心
-│   ├── index.md                 # 文档中心入口 (英/中)
+│   ├── index.md                 # 文档中心入口 (EN/ZH)
 │   ├── getting-started/         # 入门指南
-│   │   ├── user-guide.md        # 用户手册 (英/中)
-│   │   └── quick-start.md       # 快速开始指南 (英/中)
-│   ├── skill-lists-info/        # 技能清单信息
-│   │   ├── overview.md          # 清单概览 (英/中)
-│   │   └── level-descriptions.md # 级别说明 (英/中)
+│   │   ├── user-guide.md        # 用户手册 (EN/ZH)
+│   │   └── quick-start.md       # 快速开始指南 (EN/ZH)
+│   ├── vibe-coding-skills/      # Vibe coding 特定技能
+│   │   ├── overview.md          # Vibe coding 技能概览 (EN/ZH)
+│   │   └── principles.md        # Vibe coding 核心原则 (EN/ZH)
 │   └── community/               # 社区支持
-│       ├── faq.md               # 常见问题 (英/中)
-│       └── contributing-guide.md # 贡献指南 (英/中)
-├── skill-lists/                 # 按级别分类的技能清单
-│   ├── beginner/                # 初学者
-│   │   ├── skills.md            # 技能清单 (英/中)
-│   │   └── skills_en.md         # 技能清单 英文版
-│   │   └── skills_zh.md         # 技能清单 中文版
-│   ├── intermediate/            # 中级
-│   │   ├── skills.md            # 技能清单 (英/中)
-│   │   └── skills_en.md         # 技能清单 英文版
-│   │   └── skills_zh.md         # 技能清单 中文版
-│   ├── advanced/                # 高级
-│   │   ├── skills.md            # 技能清单 (英/中)
-│   │   └── skills_en.md         # 技能清单 英文版
-│   │   └── skills_zh.md         # 技能清单 中文版
-│   └── expert/                  # 专家
-│       ├── skills.md            # 技能清单 (英/中)
-│       └── skills_en.md         # 技能清单 英文版
-│       └── skills_zh.md         # 技能清单 中文版
-├── resources/                   # 学习资源
-│   └── learning-resources.md    # 学习资源 (英/中)
+│       ├── faq.md               # 常见问题 (EN/ZH)
+│       └── contributing-guide.md # 贡献指南 (EN/ZH)
+├── skill-lists/                 # Vibe coding 技能清单按级别
+│   ├── beginner/                # 初学者 Vibe coder
+│   │   ├── skills.md            # 技能清单 (EN/ZH)
+│   │   ├── skills_en.md         # 技能清单 EN
+│   │   └── skills_zh.md         # 技能清单 ZH
+│   ├── intermediate/            # 中级 Vibe coder
+│   │   ├── skills.md            # 技能清单 (EN/ZH)
+│   │   ├── skills_en.md         # 技能清单 EN
+│   │   └── skills_zh.md         # 技能清单 ZH
+│   ├── advanced/                # 高级 Vibe coder
+│   │   ├── skills.md            # 技能清单 (EN/ZH)
+│   │   ├── skills_en.md         # 技能清单 EN
+│   │   └── skills_zh.md         # 技能清单 ZH
+│   └── expert/                  # 专家级 Vibe coder
+│       ├── skills.md            # 技能清单 (EN/ZH)
+│       ├── skills_en.md         # 技能清单 EN
+│       └── skills_zh.md         # 技能清单 ZH
 └── .github/                     # GitHub 配置
     └── ISSUE_TEMPLATE/          # 问题模板
 ```
 
-## 技能级别
+## Vibe Coding 哲学
 
-- **初学者 (Beginner)**: 拥有0-1年经验的开发人员，能够编写基本程序并理解编程基本概念。
-- **中级 (Intermediate)**: 拥有1-3年经验的开发人员，能够构建中等复杂度的应用程序并理解常见的设计模式。
-- **高级 (Advanced)**: 拥有3-5年经验的开发人员，能够架构复杂的系统并指导初级开发人员。
-- **专家 (Expert)**: 拥有5年以上经验的高级开发人员，领导团队，做出战略决策，并推动技术创新。
+Vibe Coding 不仅仅局限于编写代码。它还包括：
+
+- **创意表达**: 使用代码作为艺术和创意表达的媒介
+- **协作之乐**: 在结对/结团编程和社区建设中找到乐趣
+- **正念开发**: 在编码时保持临在感和意图性
+- **游戏化探索**: 以游戏化、无评判的方式探索代码
+- **社区连接**: 与同伴程序员建立关系和分享知识
 
 ## 如何使用
 
-### 对于个人开发者
+### 对于个人 Vibe Coders
 
-1. 确定您当前的技能水平
-2. 查阅对应的技能清单
-3. 确定需要改进的领域
-4. 使用建议的学习资源来提高技能
-5. 通过勾选已掌握的技能来跟踪进度
+1. 确定您当前的 Vibe Coding 级别
+2. 查阅相应的技能清单
+3. 确定您可以增强 Vibe Coding 实践的领域
+4. 使用建议的活动来发展您的 Vibe Coding 技能
+5. 通过勾选已掌握的技能来跟踪您的进度
 
-### 对于导师和教育工作者
+### 对于 Vibe Coding 社区
 
-1. 使用技能清单作为课程指导
-2. 调整内容以符合特定的学习目标
-3. 根据个人需求创建定制学习路径
-4. 根据既定基准评估学生或学员的进度
+1. 将技能清单作为研讨会和活动的指南
+2. 调整内容以适应特定的社区目标
+3. 创建协作学习体验
+4. 庆祝编码乐趣的独特方面
 
-### 对于招聘经理
+### 对于创意编码者
 
-1. 在创建职位描述时参考技能清单
-2. 用作技术面试的框架
-3. 为新员工制定培训计划
-4. 评估团队能力和技能差距
+1. 在将创意元素融入您的工作中时参考技能
+2. 作为新创意编码项目的灵感来源
+3. 评估和发展您的创意编码能力
 
 ## 贡献
 
-我们欢迎贡献！请阅读我们的[贡献指南](CONTRIBUTING.md)，了解有关行为准则和提交拉取请求的流程的详细信息。
+我们欢迎贡献！请阅读我们的[贡献指南](CONTRIBUTING.md)，了解我们的行为准则和提交拉取请求的流程。
 
 ## 许可证
 
-该项目根据MIT许可证授权 - 请参阅[LICENSE](LICENSE)文件了解详情。
+该项目根据 MIT 许可证授权 - 详情请参阅[LICENSE](LICENSE)文件。
 
 ## 致谢
 
-特别感谢开源社区提供的灵感和最佳实践，使此项目成为可能。
+特别感谢创意编程社区和所有为编程工艺带来欢乐、艺术性和正能量的开发者们。

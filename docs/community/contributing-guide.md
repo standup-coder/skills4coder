@@ -1,6 +1,6 @@
 # Community Contribution Guide
 
-Detailed guide on how to contribute to the Skills4Coder project.
+Detailed guide on how to contribute to the Vibe Coding project.
 
 ## 🌐 Languages
 - [English](contributing-guide.md) | [中文](contributing-guide_zh.md)
@@ -18,24 +18,25 @@ Detailed guide on how to contribute to the Skills4Coder project.
 ## Getting Started
 
 ### Prerequisites
-Before contributing to Skills4Coder, please ensure you have:
+Before contributing to Vibe Coding, please ensure you have:
 - A GitHub account
 - Basic knowledge of Git and Markdown
-- Understanding of the skill level you wish to contribute to (Beginner, Intermediate, Advanced, Expert)
+- Understanding of the Vibe Coding philosophy and principles
+- Experience with mindful, creative, or collaborative coding practices
 
 ### First Steps
 1. **Fork the Repository**
-   Click the "Fork" button at the top right of the Skills4Coder repository page
+   Click the "Fork" button at the top right of the Vibe Coding repository page
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/skills4coder.git
-   cd skills4coder
+   git clone https://github.com/YOUR_USERNAME/vibe-coding-skills.git
+   cd vibe-coding-skills
    ```
 
 3. **Create a Branch**
    ```bash
-   git checkout -b feature/your-contribution-type
+   git checkout -b vibe-enhancement/your-contribution-type
    ```
 
 4. **Make Your Changes**
@@ -46,27 +47,27 @@ Before contributing to Skills4Coder, please ensure you have:
 
 ## Ways to Contribute
 
-### 1. Adding New Skills
-Add relevant skills to existing or new skill lists:
+### 1. Adding New Vibe Skills
+Add relevant skills that embody the Vibe Coding philosophy:
 
 **Guidelines:**
-- Ensure the skill fits the target level's competency
-- Include a clear, concise description
-- Add relevant learning resources when possible
+- Ensure the skill aligns with Vibe Coding principles
+- Include a clear, inspiring description
+- Add relevant activities when possible
 - Follow the existing format: `- [ ] Skill Name - Description`
 
 **Example:**
 ```markdown
-- [ ] Git Branching - Understanding how to create, merge, and manage branches in Git
+- [ ] Mindful Code Review Practice - Approaching code reviews with empathy and learning focus
 ```
 
 ### 2. Improving Existing Skills
-Enhance existing skill descriptions or learning resources:
+Enhance existing skill descriptions or activities:
 
 **Guidelines:**
-- Make descriptions clearer and more accurate
+- Make descriptions more inspiring and actionable
 - Update outdated information
-- Add or replace learning resources with better alternatives
+- Add or replace activities with better alternatives
 - Fix grammatical or spelling errors
 
 ### 3. Translations
@@ -74,21 +75,30 @@ Help translate content to new languages:
 
 **Guidelines:**
 - Create `_zh.md` or `_es.md` versions of existing documents
-- Maintain technical accuracy while ensuring cultural relevance
+- Maintain philosophical accuracy while ensuring cultural relevance
 - Use consistent terminology across translated documents
-- Include language navigation where appropriate
+- Preserve the inspirational tone of Vibe Coding
 
 ### 4. Documentation
 Improve project documentation:
 
 **Areas to focus on:**
 - User guides and tutorials
-- FAQ sections
-- Contribution guidelines
-- Community resources
+- Philosophy explanations
+- Activity descriptions
 - Best practices documentation
+- Community resources
 
-### 5. Code and Structure
+### 5. Activities & Exercises
+Create new activities that cultivate Vibe Coding skills:
+
+**Guidelines:**
+- Design activities that genuinely enhance joy and mindfulness
+- Ensure activities are inclusive and accessible
+- Include clear instructions and expected outcomes
+- Consider different skill levels when designing activities
+
+### 6. Code and Structure
 Improve project structure and code:
 
 **Examples:**
@@ -97,7 +107,7 @@ Improve project structure and code:
 - Add missing metadata to files
 - Create utility scripts for content management
 
-### 6. Bug Reports
+### 7. Bug Reports
 Report issues with the project:
 
 **Include in bug reports:**
@@ -106,7 +116,7 @@ Report issues with the project:
 - Expected vs. actual behavior
 - Screenshots if applicable
 
-### 7. Feature Requests
+### 8. Feature Requests
 Propose new features or improvements:
 
 **Good feature requests include:**
@@ -117,19 +127,21 @@ Propose new features or improvements:
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](../../CODE_OF_CONDUCT.md). Please read it before contributing.
+By participating in this project, you agree to abide by our [Code of Conduct](../../CODE_OF_CONDUCT.md). Please read it before contributing. This project aims to foster a welcoming and positive community aligned with Vibe Coding principles.
 
 ### Expected Behavior
 - Be respectful and inclusive
-- Provide constructive feedback
-- Show empathy towards other community members
+- Provide constructive feedback with empathy
+- Show compassion towards other community members
 - Respect diverse viewpoints and experiences
+- Celebrate differences and unique perspectives
 
 ### Unacceptable Behavior
 - Harassment or discrimination of any kind
 - Inflammatory or offensive comments
 - Personal attacks
 - Publishing others' private information without consent
+- Dismissive treatment of others' experiences or feelings
 
 ## Development Setup
 
@@ -141,36 +153,36 @@ By participating in this project, you agree to abide by our [Code of Conduct](..
 
 ### Project Structure
 ```
-skills4coder/
+vibe-coding-skills/
 ├── README.md                 # Project overview
 ├── docs/                     # Documentation hub
 │   ├── getting-started/      # Getting started guides
-│   ├── skill-lists-info/     # Skill lists information
+│   ├── vibe-coding-skills/   # Vibe coding specific content
 │   └── community/            # Community resources
-├── skill-lists/              # Skill checklists by level
-│   ├── beginner/             # Beginner level skills
-│   ├── intermediate/         # Intermediate level skills
-│   ├── advanced/             # Advanced level skills
-│   └── expert/               # Expert level skills
-├── resources/                # Learning resources
+├── skill-lists/              # Vibe coding skill checklists by level
+│   ├── beginner/             # Beginner vibe coder skills
+│   ├── intermediate/         # Intermediate vibe coder skills
+│   ├── advanced/             # Advanced vibe coder skills
+│   └── expert/               # Expert vibe coder skills
+├── resources/                # Vibe-focused resources
 └── .github/                  # GitHub configuration
 ```
 
 ### Working with Markdown
-Skills4Coder uses Markdown for all documentation and skill lists:
+Vibe Coding uses Markdown for all documentation and skill lists:
 
 **Standard Format for Skill Lists:**
 ```markdown
 # Category Title
 
-- [ ] Skill Name - Brief description of the skill
-- [ ] Another Skill - Another brief description
-- [x] Completed Skill - This one is checked off indicating completion
+- [ ] Vibe Skill Name - Inspirational description of the skill
+- [ ] Another Vibe Skill - Another inspiring description
+- [x] Completed Vibe Skill - This one is checked off indicating completion
 
-## Learning Resources
+## Activities & Exercises
 
-1. [Resource Name](https://example.com) - Description of the resource
-2. [Another Resource](https://example.com) - Description of another resource
+1. [Activity Name](https://example.com) - Description of the vibe-building activity
+2. [Another Activity](https://example.com) - Description of another activity
 ```
 
 ## Submitting Changes
@@ -187,17 +199,18 @@ Skills4Coder uses Markdown for all documentation and skill lists:
 2. **Verify Your Changes**
    - Test links and references
    - Check formatting and grammar
-   - Ensure consistency with existing content
+   - Ensure consistency with Vibe Coding philosophy
+   - Confirm that content is inspiring and actionable
 
 3. **Commit Your Changes**
    ```bash
    git add .
-   git commit -m "Brief description of changes"
+   git commit -m "Brief description of vibe-focused changes"
    git push origin your-branch
    ```
 
 4. **Create Pull Request**
-   - Go to the Skills4Coder repository on GitHub
+   - Go to the Vibe Coding repository on GitHub
    - Click "Compare & pull request"
    - Fill out the PR template
    - Submit for review
@@ -206,28 +219,30 @@ Skills4Coder uses Markdown for all documentation and skill lists:
 - Use present tense ("Add" not "Added")
 - Keep messages concise but descriptive
 - Prefix with area when helpful (e.g., "Docs: Add user guide", "Skills: Update beginner list")
+- Emphasize the positive, vibe-enhancing aspect of changes
 
 **Examples:**
 ```
-✅ Add new security skills to advanced level
-✅ Fix typo in intermediate skill descriptions
-✅ Update learning resources for API development
+✅ Add mindful breathing exercise to beginner skills
+✅ Enhance joyful collaboration techniques in intermediate level
+✅ Improve activities for creative coding exploration
 ```
 
 ### Pull Request Requirements
 - Changes must be related to a single issue or improvement
-- All content must follow the project's style guidelines
+- All content must align with Vibe Coding principles
 - Links should be functional and appropriate
 - Changes should add value to the community
-- PR description should explain the changes made
+- PR description should explain the positive impact of changes
 
 ## Documentation Standards
 
 ### Writing Style
-- Use clear, concise language
+- Use positive, inspiring language
 - Write in active voice when possible
 - Maintain consistent terminology
-- Ensure technical accuracy
+- Ensure philosophical alignment with Vibe Coding
+- Use inclusive language that welcomes all experience levels
 
 ### Markdown Formatting
 - Use proper heading hierarchy (# through ######)
@@ -236,10 +251,11 @@ Skills4Coder uses Markdown for all documentation and skill lists:
 - Link to external resources with proper attribution
 
 ### Content Quality
-- Ensure factual accuracy
-- Keep content relevant to the skill level
+- Ensure accuracy while maintaining inspiration
+- Keep content relevant to Vibe Coding philosophy
 - Include practical, actionable information
 - Provide context where necessary
+- Maintain an uplifting tone throughout
 
 ## Review Process
 
@@ -251,11 +267,11 @@ When you submit a pull request, it will undergo:
 
 ### Review Criteria
 Changes are evaluated based on:
-- **Accuracy**: Information is factually correct
-- **Relevance**: Content fits the target audience and level
-- **Clarity**: Writing is clear and understandable
-- **Value**: Contribution adds meaningful value
-- **Consistency**: Follows project standards and format
+- **Alignment**: Content fits Vibe Coding philosophy
+- **Inspiration**: Writing motivates and uplifts readers
+- **Actionability**: Information is practical and implementable
+- **Value**: Contribution adds meaningful value to vibe development
+- **Consistency**: Follows project standards and tone
 
 ### Addressing Feedback
 - Respond promptly to review comments
@@ -273,14 +289,14 @@ Changes are evaluated based on:
 ### Communication
 - Be patient and understanding
 - Ask questions respectfully
-- Provide constructive feedback
+- Provide constructive feedback with empathy
 - Celebrate others' contributions
 
 ### Collaboration
 - Build upon others' ideas
 - Share knowledge generously
-- Welcome newcomers
-- Foster an inclusive environment
+- Welcome newcomers with warmth
+- Foster an inclusive and supportive environment
 
 ### Continuous Improvement
 - Stay engaged with ongoing discussions
@@ -297,9 +313,9 @@ Contributors are acknowledged in:
 - Special contributor sections in documentation
 
 ### Contribution Levels
-- **Community Contributor**: Individual contributions
-- **Core Contributor**: Multiple significant contributions
-- **Maintainer**: Ongoing project oversight and management
+- **Vibe Supporter**: Individual contributions
+- **Vibe Builder**: Multiple meaningful contributions
+- **Vibe Leader**: Significant impact on project direction
 
 ## Getting Help
 
@@ -312,12 +328,12 @@ If you need help with your contribution:
 ### Mentorship
 - Experienced contributors are encouraged to mentor newcomers
 - Join discussions and offer guidance
-- Share resources for learning
+- Share resources for learning Vibe Coding
 
 ## Conclusion
 
-Thank you for considering contributing to Skills4Coder! Your contributions help make this project valuable for developers worldwide. Every contribution, big or small, is appreciated and makes a difference.
+Thank you for considering contributing to Vibe Coding! Your contributions help create a more joyful, mindful, and creative approach to software development. Every contribution, big or small, adds to the positive energy of our community.
 
-Remember that contributing is a learning process. Don't hesitate to ask questions, and welcome feedback as an opportunity to improve. Together, we can create a comprehensive and helpful resource for developers at all levels.
+Remember that contributing is a learning process. Don't hesitate to ask questions, and welcome feedback as an opportunity to grow. Together, we can create a vibrant and supportive resource for developers who value joy, creativity, and positive collaboration.
 
 Happy contributing!

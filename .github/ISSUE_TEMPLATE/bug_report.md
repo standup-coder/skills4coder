@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report incorrect or outdated skill information
+about: Report issues with Vibe Coding documentation or resources
 title: '[Bug] '
 labels: bug
 assignees: ''
@@ -10,9 +10,9 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Where is the bug located?**
-Provide the file path and specific skill that has an issue.
+Provide the file path and specific skill or section that has an issue.
 
-**Expected content**
+**Expected behavior**
 What should the correct information be?
 
 **Additional context**

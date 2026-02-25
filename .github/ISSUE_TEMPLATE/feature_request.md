@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature or enhancement
+about: Suggest a new feature or enhancement for Vibe Coding
 title: '[Feature] '
 labels: enhancement
 assignees: ''

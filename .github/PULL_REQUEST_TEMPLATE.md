@@ -7,9 +7,9 @@
 ## Type of Change
 <!-- Put an `x` in the boxes that apply -->
 
-- [ ] New skill addition
-- [ ] Correction of existing content
-- [ ] Addition of learning resources
+- [ ] New vibe skill addition
+- [ ] Enhancement of existing vibe content
+- [ ] Addition of vibe-focused activities
 - [ ] Documentation improvement
 - [ ] Translation
 - [ ] Other (please describe):
@@ -17,9 +17,9 @@
 ## Checklist
 <!-- Put an `x` in the boxes that apply -->
 
-- [ ] My changes follow the project's style guidelines
+- [ ] My changes align with Vibe Coding principles
 - [ ] I have performed a self-review of my content
-- [ ] I have commented on my changes if needed
+- [ ] I have ensured my changes promote positivity and mindfulness
 - [ ] My changes do not introduce new warnings
 - [ ] Any dependent changes have been merged and published
 

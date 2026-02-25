@@ -1,65 +1,54 @@
-# Beginner Skills Checklist
+# Beginner Vibe Coding Skills Checklist
 
-This checklist covers fundamental skills that beginner programmers should master.
+This checklist covers fundamental skills for developers interested in joyful, creative coding experiences.
 
 ## 🌐 Languages
 - [English](skills_en.md) | [中文](skills_zh.md) | [Combined](skills.md)
 
-## Programming Fundamentals
+## Mindful Coding Practices
 
-- [ ] Variables and Data Types - Understanding how to declare variables and use different data types
-- [ ] Conditional Statements - Using if/else statements to make decisions in code
-- [ ] Loops - Repeating code blocks using for/while loops
-- [ ] Functions - Creating reusable code blocks with parameters and return values
-- [ ] Arrays and Lists - Storing and manipulating collections of data
-- [ ] Error Handling - Managing exceptions and errors gracefully
+- [ ] Conscious Breathing During Coding - Taking mindful breaths before diving into complex code
+- [ ] Setting Positive Intentions - Starting coding sessions with positive goals and attitudes
+- [ ] Taking Regular Breaks - Implementing short breaks to maintain focus and joy
+- [ ] Body Awareness - Maintaining awareness of physical comfort while coding
+- [ ] Non-Judgmental Awareness - Observing code without harsh self-criticism
 
-## Version Control
+## Creative Coding Exploration
 
-- [ ] Basic Git Commands - Understanding git init, git add, git commit, git status
-- [ ] Creating Repositories - Setting up local and remote repositories
-- [ ] Committing Changes - Saving changes with descriptive commit messages
-- [ ] Branching - Creating and switching between different development branches
-- [ ] Merging - Combining changes from different branches
+- [ ] Experimenting with Visual Code Art - Creating aesthetic arrangements of code
+- [ ] Colorful Comment Art - Using comments creatively for visual interest
+- [ ] Creative Naming Conventions - Finding joy in expressive variable and function names
+- [ ] Emoji Usage in Code - Using emojis to add personality to comments and logs
+- [ ] Playful Console Messages - Adding delightful messages to console outputs
 
-## Development Environment
+## Joyful Learning Approaches
 
-- [ ] Setting up Code Editor - Configuring and using a code editor efficiently
-- [ ] Using Terminal - Navigating and executing commands in terminal/shell
-- [ ] File System Operations - Managing files and directories from command line
-- [ ] Package Manager Usage - Installing and managing dependencies with tools like npm, pip
+- [ ] Celebrating Small Wins - Acknowledging minor accomplishments in coding
+- [ ] Reframing Mistakes as Learning - Seeing errors as opportunities for growth
+- [ ] Curiosity-Driven Exploration - Asking "what if" questions about code
+- [ ] Learning Through Play - Experimenting with code without specific goals
+- [ ] Positive Affirmations - Using positive self-talk during coding challenges
 
-## Basic Algorithms and Data Structures
+## Positive Collaboration Basics
 
-- [ ] Array Operations - Common operations like search, sort, and manipulation
-- [ ] Linked List Concepts - Understanding basic linked list structure and usage
-- [ ] Stacks and Queues - Understanding LIFO and FIFO data structures
-- [ ] Basic Sorting Algorithms - Bubble sort, selection sort, insertion sort
-- [ ] Basic Search Algorithms - Linear search, binary search
+- [ ] Friendly Communication - Using encouraging language in code comments and documentation
+- [ ] Asking Questions Confidently - Seeking help without shame or hesitation
+- [ ] Expressing Ideas Clearly - Communicating thoughts and suggestions respectfully
+- [ ] Active Listening - Paying attention to others' coding insights
+- [ ] Sharing Learning Moments - Discussing discoveries and breakthroughs
 
-## Testing Fundamentals
+## Building Confidence in Coding
 
-- [ ] Unit Testing Concepts - Understanding the purpose of unit testing
-- [ ] Assertions - Using assertions to validate code behavior
-- [ ] Test Driven Development - Writing tests before implementing functionality
+- [ ] Setting Manageable Goals - Breaking complex tasks into achievable steps
+- [ ] Tracking Progress Positively - Focusing on improvements rather than gaps
+- [ ] Positive Self-Dialogue - Using supportive internal language while coding
+- [ ] Recognizing Growth - Identifying personal development in coding abilities
+- [ ] Finding Joy in Process - Enjoying the journey, not just the destination
 
-## Web Development Basics
+## Activities & Exercises
 
-- [ ] HTML Structure - Creating proper document structure with semantic HTML
-- [ ] CSS Layout - Styling and positioning elements on a webpage
-- [ ] JavaScript DOM Manipulation - Interacting with webpage elements dynamically
-- [ ] HTTP Requests Basics - Making GET/POST requests to web servers
-
-## Database Basics
-
-- [ ] Relational Database Concepts - Understanding tables, rows, columns, relationships
-- [ ] SQL Queries - Writing basic SELECT, INSERT, UPDATE, DELETE statements
-- [ ] Basic Table Design - Creating tables with appropriate data types and constraints
-
-## Learning Resources
-
-1. [freeCodeCamp](https://www.freecodecamp.org/) - Free coding curriculum covering web development fundamentals
-2. [MDN Web Docs](https://developer.mozilla.org/) - Comprehensive web technology documentation
-3. [The Odin Project](https://www.theodinproject.com/) - Full stack web development curriculum
-4. [Khan Academy](https://www.khanacademy.org/) - Computer science and programming courses
-5. [Coursera](https://www.coursera.org/) - University-level programming courses
+1. [Mindful Coding Meditation](https://example.com) - Brief meditation practice before coding sessions
+2. [Creative Code Art Challenge](https://example.com) - Creating visual art with code structure
+3. [Joyful Debugging Games](https://example.com) - Turning bug hunting into fun activities
+4. [Positive Affirmation Generator](https://example.com) - Creating uplifting messages for coding
+5. [Peer Coding Joy Session](https://example.com) - Collaborating with others for shared joy

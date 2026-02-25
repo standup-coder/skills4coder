@@ -1,137 +1,142 @@
-# Skills4Coder Quick Start Guide
+# Vibe Coding Quick Start Guide
 
-Get up and running with Skills4Coder in minutes.
+Get up and running with Vibe Coding in minutes.
 
 ## 🌐 Languages
 - [English](quick-start.md) | [中文](quick-start_zh.md)
 
 ## Overview
 
-This guide will help you quickly understand how to use the Skills4Coder project, find the right skill list for your level, and begin tracking your progress.
+This guide will help you quickly understand how to adopt Vibe Coding principles and begin integrating joyful, creative practices into your development workflow.
 
-## Step 1: Determine Your Skill Level
+## Step 1: Understand Vibe Coding Philosophy
 
-Skills4Coder organizes skills into four levels:
+Vibe Coding emphasizes:
+- **Creative Expression**: Using code as a canvas for creativity and artistry
+- **Collaborative Joy**: Finding happiness in shared coding experiences
+- **Mindful Practice**: Being present and intentional while coding
+- **Playful Experimentation**: Trying new approaches without fear of failure
+- **Community Connection**: Building relationships and fostering positive coding cultures
 
-### Beginner
-- **Best for**: Developers with 0-1 years of experience
-- **Focus**: Programming fundamentals and core concepts
+## Step 2: Choose Your Starting Level
+
+### Beginner Vibe Coder
+- **Best for**: New developers interested in joyful coding
+- **Focus**: Mindful practices, creative exploration, positive collaboration
 - **Directory**: `skill-lists/beginner/`
-- **Start here if**: You're new to programming or have minimal experience
+- **Start here if**: You're new to coding or want to add joy to your practice
 
-### Intermediate
-- **Best for**: Developers with 1-3 years of experience
-- **Focus**: Software design patterns and common practices
+### Intermediate Vibe Coder
+- **Best for**: Developers expanding creative and collaborative practices
+- **Focus**: Collaborative joy, creative expression, community engagement
 - **Directory**: `skill-lists/intermediate/`
-- **Start here if**: You can build applications but want to improve architecture skills
+- **Start here if**: You have some experience and want to enhance teamwork
 
-### Advanced
-- **Best for**: Developers with 3-5 years of experience
-- **Focus**: System design and architectural decisions
+### Advanced Vibe Coder
+- **Best for**: Experienced developers creating positive environments
+- **Focus**: Leadership, creative solutions, community building
 - **Directory**: `skill-lists/advanced/`
-- **Start here if**: You design complex systems and mentor others
+- **Start here if**: You lead teams or projects and want to transform culture
 
-### Expert
-- **Best for**: Developers with 5+ years of experience
-- **Focus**: Strategic architecture and technical leadership
+### Expert Vibe Coder
+- **Best for**: Senior developers shaping organizational practices
+- **Focus**: Culture transformation, thought leadership, large-scale community building
 - **Directory**: `skill-lists/expert/`
-- **Start here if**: You lead teams and make strategic technical decisions
+- **Start here if**: You influence organizational policies and culture
 
-## Step 2: Access the Skill Lists
+## Step 3: Access the Vibe Coding Materials
 
 ### Option A: Browse Online
-Visit the Skills4Coder repository on GitHub:
+Visit the Vibe Coding repository:
 ```
-https://github.com/standup-coder/skills4coder
+https://github.com/standup-coder/vibe-coding-skills
 ```
 
-Navigate to the appropriate directory based on your skill level:
-- `/skill-lists/beginner/` - For beginners
-- `/skill-lists/intermediate/` - For intermediate developers
-- `/skill-lists/advanced/` - For advanced developers
-- `/skill-lists/expert/` - For expert developers
+Navigate to the appropriate directory based on your level:
+- `/skill-lists/beginner/` - For new vibe coders
+- `/skill-lists/intermediate/` - For growing vibe coders
+- `/skill-lists/advanced/` - For experienced vibe coders
+- `/skill-lists/expert/` - For vibe coding leaders
 
 ### Option B: Download Locally
 ```bash
 # Clone the repository
-git clone https://github.com/standup-coder/skills4coder.git
-cd skills4coder
+git clone https://github.com/standup-coder/vibe-coding-skills.git
+cd vibe-coding-skills
 
 # Navigate to your level
 cd skill-lists/beginner/  # or intermediate/advanced/expert/
 ```
 
-## Step 3: Use the Skill Lists
+## Step 4: Use the Vibe Coding Checklists
 
-Each skill list follows this format:
+Each checklist follows this format:
 
 ```markdown
 # Category Title
 
-- [ ] Skill Name - Brief description of the skill
-- [ ] Another Skill - Another brief description
-- [x] Completed Skill - This one is checked off indicating completion
+- [ ] Vibe Skill Name - Description of the skill
+- [ ] Another Vibe Skill - Another description
+- [x] Completed Vibe Skill - This one is checked off indicating completion
 ```
 
-### Tracking Your Progress
+### Tracking Your Vibe Progress
 
-1. **Copy the list**: Make a copy of the skill list to track your progress
+1. **Copy the checklist**: Make a copy to track your vibe development
    ```bash
-   cp skill-lists/beginner/skills.md my_progress_tracker.md
+   cp skill-lists/beginner/skills.md my_vibe_progress_tracker.md
    ```
 
-2. **Mark completed skills**: Replace `[ ]` with `[x]` for skills you've mastered
+2. **Mark completed vibes**: Replace `[ ]` with `[x]` for skills you've practiced
    ```markdown
    # Before
-   - [ ] Variables and Data Types
+   - [ ] Conscious Breathing During Coding
 
    # After
-   - [x] Variables and Data Types
+   - [x] Conscious Breathing During Coding
    ```
 
-3. **Regular review**: Periodically review your progress and update your tracker
+3. **Regular vibe check-ins**: Periodically review your progress and update your tracker
 
-## Step 4: Find Learning Resources
+## Step 5: Find Vibe-Focused Activities
 
-Each skill list ends with curated learning resources:
+Each list ends with vibe-centered activities:
 
 ```markdown
-## Learning Resources
+## Activities & Exercises
 
-1. [Resource Name](https://example.com) - Description of the resource
-2. [Another Resource](https://example.com) - Description of another resource
+1. [Activity Name](https://example.com) - Description of the vibe-building activity
+2. [Another Activity](https://example.com) - Description of another activity
 ```
 
-Use these resources to develop the skills listed in each category.
+Use these activities to develop your vibe coding skills.
 
-## Step 5: Set Goals and Milestones
+## Step 6: Set Vibe Goals and Milestones
 
 ### Progress Tracking Formula
 ```
-Completion Rate = (Completed Skills / Total Skills) × 100%
+Vibe Mastery Rate = (Practiced Vibe Skills / Total Vibe Skills) × 100%
 ```
 
 ### Milestone Targets
-- **25%**: Good foundation, keep going
-- **50%**: Midway milestone, stay motivated
-- **75%**: Near completion, push forward
-- **100%**: Achievement reached, advance to next level
+- **25%**: Good vibe foundation, keep flowing
+- **50%**: Midway vibe milestone, stay groovy
+- **75%**: Near vibe completion, almost there
+- **100%**: Vibe achievement reached, advance to next level
 
-## Next Steps
+## Next Steps After Getting Started
 
-After completing a skill list:
+1. **Move to the next vibe level**: Gradually advance to higher levels
+2. **Share your vibe**: Spread positive energy to others
+3. **Contribute to the community**: Add to the Vibe Coding project
+4. **Explore creative coding**: Dive deeper into artistic coding
 
-1. **Move to the next level**: Graduate to the next difficulty level
-2. **Teach others**: Share your knowledge (teaching reinforces learning)
-3. **Contribute**: Add to the Skills4Coder project
-4. **Explore specialties**: Dive deeper into specific technology areas
+## Need Vibe Support?
 
-## Need Help?
-
-- Review our [FAQ](../community/faq.md) for common questions
+- Review our [FAQ](../docs/community/faq.md) for common questions
 - Join the community discussions on GitHub
-- Contribute improvements to help others
+- Share your vibe experiences and learnings
 
 ---
 
-**Pro Tip**: Start with the skill level that feels slightly challenging but not overwhelming. It's better to start at the right level than to aim too high or too low initially.
+**Vibe Tip**: Start with just one or two vibe practices at a time. Let them integrate naturally into your coding routine before adding more. The goal is to enhance joy, not create additional stress!

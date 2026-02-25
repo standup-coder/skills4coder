@@ -1,6 +1,6 @@
-# Skills4Coder Documentation Hub
+# Vibe Coding Skills Documentation Hub
 
-Welcome to the Skills4Coder documentation hub! This centralized location provides access to all project documentation organized by topic and purpose.
+Welcome to the Vibe Coding Skills documentation hub! This centralized location provides access to all project documentation focused on developing the unique skills of Vibe Coders - developers who embrace creativity, collaboration, and joy in the coding process.
 
 ## 🌐 Languages
 - [English](index.md) | [中文](index_zh.md)
@@ -8,40 +8,47 @@ Welcome to the Skills4Coder documentation hub! This centralized location provide
 ## Table of Contents
 
 ### Getting Started
-New to Skills4Coder? Start here:
-- [Quick Start Guide](getting-started/quick-start.md) - Get up and running with Skills4Coder in minutes
-- [User Manual](getting-started/user-guide.md) - Comprehensive guide to using the skill checklists
-- [Level Descriptions](skill-lists-info/level-descriptions.md) - Detailed explanations of skill levels
+New to Vibe Coding? Start here:
+- [Quick Start Guide](getting-started/quick-start.md) - Get up and running with Vibe Coding in minutes
+- [User Manual](getting-started/user-guide.md) - Comprehensive guide to Vibe Coding practices
+- [Vibe Coding Principles](vibe-coding-skills/principles.md) - Core concepts and philosophies
 
-### Skill Lists Information
-Understanding the skill checklists:
-- [Overview of Skill Lists](skill-lists-info/overview.md) - Learn about the structure and purpose of each skill list
-- [Beginner Skills](../skill-lists/beginner/skills.md) - Starting point for new developers
-- [Intermediate Skills](../skill-lists/intermediate/skills.md) - Building on fundamental concepts
-- [Advanced Skills](../skill-lists/advanced/skills.md) - For experienced developers
-- [Expert Skills](../skill-lists/expert/skills.md) - Strategic and leadership skills
+### Vibe Coding Skills Information
+Understanding Vibe Coding specific skills:
+- [Overview of Vibe Coding Skills](vibe-coding-skills/overview.md) - Learn about the unique aspects of vibe-centered development
+- [Beginner Vibe Skills](../skill-lists/beginner/skills.md) - Starting point for new vibe coders
+- [Intermediate Vibe Skills](../skill-lists/intermediate/skills.md) - Building on fundamental vibe concepts
+- [Advanced Vibe Skills](../skill-lists/advanced/skills.md) - For experienced vibe coders
+- [Expert Vibe Skills](../skill-lists/expert/skills.md) - For senior vibe engineering leaders
 
 ### Community & Support
 Resources for contributors and community members:
 - [FAQ](community/faq.md) - Frequently asked questions
 - [Contribution Guide](community/contributing-guide.md) - How to contribute to the project
-- [Learning Resources](../resources/learning-resources.md) - Curated resources to support skill development
 
-## About Skills4Coder
+## About Vibe Coding
 
-Skills4Coder is an open-source project designed to provide a comprehensive, curated list of skills and competencies that modern developers should master. The project is organized by skill levels:
+Vibe Coding is an approach to programming that emphasizes:
 
-- **Beginner**: For those starting their development journey
-- **Intermediate**: For developers building on foundational skills
-- **Advanced**: For experienced developers tackling complex challenges
-- **Expert**: For senior engineers making strategic decisions
+- **Creative Expression**: Using code as a canvas for creativity and artistry
+- **Collaborative Joy**: Finding happiness in shared coding experiences
+- **Mindful Practice**: Being present and intentional while coding
+- **Playful Experimentation**: Trying new approaches without fear of failure
+- **Community Connection**: Building relationships and fostering positive coding cultures
 
-Each level contains specific skills relevant to that stage of development, along with recommended learning resources.
+The skill lists are organized by experience level:
+
+- **Beginner**: For those starting their vibe coding journey
+- **Intermediate**: For vibe coders building on foundational skills
+- **Advanced**: For experienced vibe coders tackling complex collaborative challenges
+- **Expert**: For vibe coding leaders creating positive environments
+
+Each level contains specific skills relevant to that stage of vibe-centered development.
 
 ## Navigation Tips
 
-1. **New Users**: Start with the [Quick Start Guide](getting-started/quick-start.md)
-2. **Skill Seekers**: Browse the [Skill Lists](../skill-lists/) directly
+1. **New Vibe Coders**: Start with the [Quick Start Guide](getting-started/quick-start.md)
+2. **Skill Seekers**: Browse the [Vibe Coding Skills](../skill-lists/) directly
 3. **Contributors**: Review the [Contribution Guide](community/contributing-guide.md)
 4. **All Users**: Check the [FAQ](community/faq.md) for common questions
 

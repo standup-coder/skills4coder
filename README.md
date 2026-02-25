@@ -1,20 +1,20 @@
-# Skills4Coder
+# Vibe Coding Skills
 
-A comprehensive skill checklist and learning roadmap for developers of all levels.
+A comprehensive skill checklist and learning roadmap for Vibe Coders - developers who embrace the creative, collaborative, and joyful aspects of coding.
 
 ## 🌐 Languages
 - [English](README.md) | [中文](README_zh.md)
 
 ## Overview
 
-Skills4Coder is an open-source project designed to provide a comprehensive, curated list of skills and competencies that modern developers should master. Whether you're a beginner looking to grow, an intermediate developer wanting to fill gaps in your knowledge, or a senior engineer mentoring others, this project serves as your guide.
+Vibe Coding represents a philosophy of programming that emphasizes creativity, collaboration, and joy in the development process. This project provides skill checklists for Vibe Coders at different experience levels, focusing on the unique aspects of coding that blend technical skills with creative expression and community building.
 
 ## Structure
 
-The project is organized by skill levels and technology domains:
+The project is organized by skill levels and vibe-centric development domains:
 
 ```
-skills4coder/
+vibe-coding-skills/
 ├── README.md                     # Project overview (EN/ZH)
 ├── LICENSE                       # Project license
 ├── CODE_OF_CONDUCT.md            # Code of conduct
@@ -26,65 +26,65 @@ skills4coder/
 │   ├── getting-started/         # Getting started guides
 │   │   ├── user-guide.md        # User manual (EN/ZH)
 │   │   └── quick-start.md       # Quick start guide (EN/ZH)
-│   ├── skill-lists-info/        # Skill lists information
-│   │   ├── overview.md          # Lists overview (EN/ZH)
-│   │   └── level-descriptions.md # Level descriptions (EN/ZH)
+│   ├── vibe-coding-skills/      # Vibe coding specific skills
+│   │   ├── overview.md          # Vibe coding skills overview (EN/ZH)
+│   │   └── principles.md        # Core principles of vibe coding (EN/ZH)
 │   └── community/               # Community support
 │       ├── faq.md               # Frequently asked questions (EN/ZH)
 │       └── contributing-guide.md # Contribution guide (EN/ZH)
-├── skill-lists/                 # Skill checklists by level
-│   ├── beginner/                # Beginner level
+├── skill-lists/                 # Vibe coding skill checklists by level
+│   ├── beginner/                # Beginner vibe coder
 │   │   ├── skills.md            # Skills checklist (EN/ZH)
-│   │   └── skills_en.md         # Skills checklist EN
+│   │   ├── skills_en.md         # Skills checklist EN
 │   │   └── skills_zh.md         # Skills checklist ZH
-│   ├── intermediate/            # Intermediate level
+│   ├── intermediate/            # Intermediate vibe coder
 │   │   ├── skills.md            # Skills checklist (EN/ZH)
-│   │   └── skills_en.md         # Skills checklist EN
+│   │   ├── skills_en.md         # Skills checklist EN
 │   │   └── skills_zh.md         # Skills checklist ZH
-│   ├── advanced/                # Advanced level
+│   ├── advanced/                # Advanced vibe coder
 │   │   ├── skills.md            # Skills checklist (EN/ZH)
-│   │   └── skills_en.md         # Skills checklist EN
+│   │   ├── skills_en.md         # Skills checklist EN
 │   │   └── skills_zh.md         # Skills checklist ZH
-│   └── expert/                  # Expert level
+│   └── expert/                  # Expert vibe coder
 │       ├── skills.md            # Skills checklist (EN/ZH)
-│       └── skills_en.md         # Skills checklist EN
+│       ├── skills_en.md         # Skills checklist EN
 │       └── skills_zh.md         # Skills checklist ZH
-├── resources/                   # Learning resources
-│   └── learning-resources.md    # Learning resources (EN/ZH)
 └── .github/                     # GitHub configurations
     └── ISSUE_TEMPLATE/          # Issue templates
 ```
 
-## Skill Levels
+## Vibe Coding Philosophy
 
-- **Beginner**: Developers with 0-1 years of experience who can write basic programs and understand fundamental programming concepts.
-- **Intermediate**: Developers with 1-3 years of experience who can build moderately complex applications and understand common design patterns.
-- **Advanced**: Developers with 3-5 years of experience who can architect complex systems and mentor junior developers.
-- **Expert**: Senior developers with 5+ years of experience who lead teams, make strategic decisions, and drive technical innovation.
+Vibe Coding encompasses more than just writing code. It includes:
+
+- **Creative Expression**: Using code as a medium for artistic and creative expression
+- **Collaborative Joy**: Finding joy in pair/mob programming and community building
+- **Mindful Development**: Being present and intentional while coding
+- **Playful Exploration**: Experimenting with code in a playful, non-judgmental way
+- **Community Connection**: Building relationships and sharing knowledge with fellow coders
 
 ## How to Use
 
-### For Individual Developers
+### For Individual Vibe Coders
 
-1. Identify your current skill level
+1. Identify your current vibe coding level
 2. Review the corresponding skill list
-3. Identify areas where you need improvement
-4. Use the suggested learning resources to enhance your skills
+3. Identify areas where you can enhance your vibe coding practice
+4. Use the suggested activities to develop your vibe coding skills
 5. Track your progress by checking off mastered skills
 
-### For Mentors and Educators
+### For Vibe Coding Communities
 
-1. Use the skill lists as a curriculum guide
-2. Adapt content to fit specific learning objectives
-3. Create custom learning paths based on individual needs
-4. Evaluate student or mentee progress against established benchmarks
+1. Use the skill lists as a guide for workshops and events
+2. Adapt content to fit specific community goals
+3. Create collaborative learning experiences
+4. Celebrate the unique aspects of coding joy
 
-### For Hiring Managers
+### For Creative Coders
 
-1. Reference skill lists when creating job descriptions
-2. Use as a framework for technical interviews
-3. Develop training programs for new hires
-4. Assess team capabilities and skill gaps
+1. Reference the skills when incorporating creative elements into your work
+2. Use as inspiration for new creative coding projects
+3. Assess and develop your creative coding abilities
 
 ## Contributing
 
@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to the open-source community for inspiration and best practices that made this project possible.
+Special thanks to the creative coding community and all the developers who bring joy, artistry, and positive energy to the craft of programming.
