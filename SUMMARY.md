@@ -1,38 +1,60 @@
 # Skills4Coder - Project Summary
 
-## Overview
+## 🌐 Languages
+- [English](SUMMARY.md) | [中文](SUMMARY_zh.md)
+
+## Executive Summary
+
 Skills4Coder is a comprehensive, professionally structured open-source project that provides skill checklists for developers at different experience levels. The project aims to guide developers in identifying and acquiring the skills needed for their growth journey.
 
 ## Completed Components
 
 ### Core Project Files
-- [x] README.md - Comprehensive project overview
+- [x] README.md - Comprehensive project overview (EN/ZH)
 - [x] LICENSE - MIT License for open-source distribution
-- [x] CONTRIBUTING.md - Detailed contribution guidelines
+- [x] CONTRIBUTING.md - Detailed contribution guidelines (EN/ZH)
 - [x] CODE_OF_CONDUCT.md - Community behavior standards
 - [x] .gitignore - Proper git ignore patterns
 - [x] package.json - Project metadata and configuration
-- [x] ROADMAP.md - Future development plans
+- [x] ROADMAP.md - Future development plans (EN/ZH)
+- [x] SUMMARY.md - Project summary (EN/ZH)
 
 ### Skill Checklists by Level
 - [x] Beginner Level
-  - [x] skills_cn.md - Chinese version
+  - [x] skills.md - Combined English/Chinese version
   - [x] skills_en.md - English version
+  - [x] skills_zh.md - Chinese version
 - [x] Intermediate Level
-  - [x] skills_cn.md - Chinese version
-  - [x] skills_en.md - English version (planned)
+  - [x] skills.md - Combined English/Chinese version
+  - [x] skills_en.md - English version
+  - [x] skills_zh.md - Chinese version
 - [x] Advanced Level
+  - [x] skills.md - Combined English/Chinese version
   - [x] skills_en.md - English version
+  - [x] skills_zh.md - Chinese version
 - [x] Expert Level
+  - [x] skills.md - Combined English/Chinese version
   - [x] skills_en.md - English version
+  - [x] skills_zh.md - Chinese version
 
 ### Documentation and Resources
-- [x] docs/index.md - Main documentation page
-- [x] resources/learning-resources.md - Curated learning resources
+- [x] docs/index.md - Documentation center entry (EN/ZH)
+- [x] docs/getting-started/ - Getting started guides (EN/ZH)
+  - [x] user-guide.md - Comprehensive user manual
+  - [x] quick-start.md - Quick start guide
+- [x] docs/skill-lists-info/ - Skill lists information (EN/ZH)
+  - [x] overview.md - Lists overview
+  - [x] level-descriptions.md - Level descriptions
+- [x] docs/community/ - Community support (EN/ZH)
+  - [x] faq.md - Frequently asked questions
+  - [x] contributing-guide.md - Detailed contribution guide
+- [x] resources/learning-resources.md - Curated learning resources (EN/ZH)
 
 ### Community Support
-- [x] .github/ISSUE_TEMPLATE/bug_report.md - Bug report template
-- [x] .github/ISSUE_TEMPLATE/new_skill_suggestion.md - Skill suggestion template
+- [x] .github/ISSUE_TEMPLATE/ - Issue templates
+  - [x] bug_report.md - Bug report template
+  - [x] feature_request.md - Feature request template
+  - [x] skill_suggestion.md - Skill suggestion template
 - [x] .github/PULL_REQUEST_TEMPLATE.md - Pull request template
 
 ## Project Structure
@@ -43,33 +65,51 @@ skills4coder/
 ├── CODE_OF_CONDUCT.md
 ├── LICENSE
 ├── ROADMAP.md
+├── SUMMARY.md
 ├── .gitignore
 ├── package.json
 ├── docs/
-│   └── index.md
+│   ├── index.md
+│   ├── getting-started/
+│   │   ├── user-guide.md
+│   │   └── quick-start.md
+│   ├── skill-lists-info/
+│   │   ├── overview.md
+│   │   └── level-descriptions.md
+│   └── community/
+│       ├── faq.md
+│       └── contributing-guide.md
 ├── skill-lists/
 │   ├── beginner/
-│   │   ├── skills_cn.md
-│   │   └── skills_en.md
+│   │   ├── skills.md
+│   │   ├── skills_en.md
+│   │   └── skills_zh.md
 │   ├── intermediate/
-│   │   └── skills_cn.md
+│   │   ├── skills.md
+│   │   ├── skills_en.md
+│   │   └── skills_zh.md
 │   ├── advanced/
-│   │   └── skills_en.md
+│   │   ├── skills.md
+│   │   ├── skills_en.md
+│   │   └── skills_zh.md
 │   └── expert/
-│       └── skills_en.md
+│       ├── skills.md
+│       ├── skills_en.md
+│       └── skills_zh.md
 ├── resources/
 │   └── learning-resources.md
 └── .github/
     ├── ISSUE_TEMPLATE/
     │   ├── bug_report.md
-    │   └── new_skill_suggestion.md
+    │   ├── feature_request.md
+    │   └── skill_suggestion.md
     └── PULL_REQUEST_TEMPLATE.md
 ```
 
 ## Key Features
 
 1. **Multi-Level Approach**: Skills organized by experience level (Beginner, Intermediate, Advanced, Expert)
-2. **Multilingual Support**: Currently supporting Chinese and English with room for expansion
+2. **Multilingual Support**: Comprehensive support for English and Chinese with infrastructure for expansion
 3. **Professional Structure**: Following open-source best practices with proper documentation
 4. **Community-Driven**: Easy contribution process with templates and guidelines
 5. **Resource-Rich**: Curated learning resources to support skill acquisition

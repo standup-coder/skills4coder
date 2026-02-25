@@ -11,6 +11,7 @@
 - [ ] Correction of existing content
 - [ ] Addition of learning resources
 - [ ] Documentation improvement
+- [ ] Translation
 - [ ] Other (please describe):
 
 ## Checklist

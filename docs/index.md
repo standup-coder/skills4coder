@@ -1,77 +1,54 @@
-# Skills4Coder Documentation
+# Skills4Coder Documentation Hub
 
-Welcome to the Skills4Coder documentation. This guide explains how to use and contribute to this comprehensive skill checklist project.
+Welcome to the Skills4Coder documentation hub! This centralized location provides access to all project documentation organized by topic and purpose.
+
+## 🌐 Languages
+- [English](index.md) | [中文](index_zh.md)
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-- [How to Use the Skill Lists](#how-to-use-the-skill-lists)
-- [Skill Level Definitions](#skill-level-definitions)
-- [Contributing Guidelines](#contributing-guidelines)
-- [License Information](#license-information)
+### Getting Started
+New to Skills4Coder? Start here:
+- [Quick Start Guide](getting-started/quick-start.md) - Get up and running with Skills4Coder in minutes
+- [User Manual](getting-started/user-guide.md) - Comprehensive guide to using the skill checklists
+- [Level Descriptions](skill-lists-info/level-descriptions.md) - Detailed explanations of skill levels
 
-## About the Project
+### Skill Lists Information
+Understanding the skill checklists:
+- [Overview of Skill Lists](skill-lists-info/overview.md) - Learn about the structure and purpose of each skill list
+- [Beginner Skills](../skill-lists/beginner/skills.md) - Starting point for new developers
+- [Intermediate Skills](../skill-lists/intermediate/skills.md) - Building on fundamental concepts
+- [Advanced Skills](../skill-lists/advanced/skills.md) - For experienced developers
+- [Expert Skills](../skill-lists/expert/skills.md) - Strategic and leadership skills
 
-Skills4Coder is an open-source project designed to provide a comprehensive, curated list of skills and competencies that modern developers should master. The project is organized by skill levels and technology domains.
+### Community & Support
+Resources for contributors and community members:
+- [FAQ](community/faq.md) - Frequently asked questions
+- [Contribution Guide](community/contributing-guide.md) - How to contribute to the project
+- [Learning Resources](../resources/learning-resources.md) - Curated resources to support skill development
 
-## How to Use the Skill Lists
+## About Skills4Coder
 
-### For Individual Developers
+Skills4Coder is an open-source project designed to provide a comprehensive, curated list of skills and competencies that modern developers should master. The project is organized by skill levels:
 
-1. Assess your current skill level (beginner, intermediate, advanced, or expert)
-2. Review the corresponding skill list
-3. Identify areas where you need improvement
-4. Use the suggested learning resources to enhance your skills
-5. Track your progress by checking off mastered skills
+- **Beginner**: For those starting their development journey
+- **Intermediate**: For developers building on foundational skills
+- **Advanced**: For experienced developers tackling complex challenges
+- **Expert**: For senior engineers making strategic decisions
 
-### For Mentors and Educators
+Each level contains specific skills relevant to that stage of development, along with recommended learning resources.
 
-1. Use the skill lists as a curriculum guide
-2. Adapt content to fit specific learning objectives
-3. Create custom learning paths based on individual needs
-4. Evaluate student or mentee progress against established benchmarks
+## Navigation Tips
 
-### For Hiring Managers
+1. **New Users**: Start with the [Quick Start Guide](getting-started/quick-start.md)
+2. **Skill Seekers**: Browse the [Skill Lists](../skill-lists/) directly
+3. **Contributors**: Review the [Contribution Guide](community/contributing-guide.md)
+4. **All Users**: Check the [FAQ](community/faq.md) for common questions
 
-1. Reference skill lists when creating job descriptions
-2. Use as a framework for technical interviews
-3. Develop training programs for new hires
-4. Assess team capabilities and skill gaps
+## Contributing to Documentation
 
-## Skill Level Definitions
+We welcome improvements to our documentation! Please see our [Contribution Guide](community/contributing-guide.md) for information on how to contribute.
 
-### Beginner
-Developers with 0-1 years of experience who can write basic programs and understand fundamental programming concepts.
+## License
 
-### Intermediate
-Developers with 1-3 years of experience who can build moderately complex applications and understand common design patterns.
-
-### Advanced
-Developers with 3-5 years of experience who can architect complex systems and mentor junior developers.
-
-### Expert
-Senior developers with 5+ years of experience who lead teams, make strategic decisions, and drive technical innovation.
-
-## Contributing Guidelines
-
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed information about contributing to this project.
-
-### Adding New Skills
-
-When proposing new skills:
-1. Identify the appropriate skill level
-2. Ensure the skill is relevant to modern development practices
-3. Provide a clear description of the skill
-4. Suggest learning resources when possible
-
-### Improving Existing Content
-
-We welcome improvements to existing skill lists:
-1. Correct factual errors
-2. Improve clarity and readability
-3. Add missing examples or resources
-4. Update outdated information
-
-## License Information
-
-This project is licensed under the MIT License. See [LICENSE](../LICENSE) for details.
+Documentation is provided under the same MIT License as the project itself. See [LICENSE](../LICENSE) for details.

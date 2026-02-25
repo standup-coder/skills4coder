@@ -2,6 +2,9 @@
 
 A comprehensive skill checklist and learning roadmap for developers of all levels.
 
+## 🌐 Languages
+- [English](README.md) | [中文](README_zh.md)
+
 ## Overview
 
 Skills4Coder is an open-source project designed to provide a comprehensive, curated list of skills and competencies that modern developers should master. Whether you're a beginner looking to grow, an intermediate developer wanting to fill gaps in your knowledge, or a senior engineer mentoring others, this project serves as your guide.
@@ -12,26 +15,44 @@ The project is organized by skill levels and technology domains:
 
 ```
 skills4coder/
-├── README.md                 # Project overview
-├── CONTRIBUTING.md           # Contribution guidelines
-├── CODE_OF_CONDUCT.md        # Code of conduct
-├── LICENSE                   # Project license
-├── .gitignore               # Git ignore patterns
-├── docs/                    # Project documentation
-│   └── index.md             # Main documentation page
-├── skill-lists/             # Skill checklists by level
-│   ├── beginner/            # Beginner-level skills
-│   │   ├── skills_cn.md     # Chinese version
-│   │   └── skills_en.md     # English version
-│   ├── intermediate/        # Intermediate-level skills
-│   │   ├── skills_cn.md     # Chinese version
-│   │   └── skills_en.md     # English version
-│   ├── advanced/            # Advanced-level skills
-│   │   └── skills_en.md     # English version
-│   └── expert/              # Expert-level skills
-│       └── skills_en.md     # English version
-└── resources/               # Learning resources
-    └── learning-resources.md # Curated resource list
+├── README.md                     # Project overview (EN/ZH)
+├── LICENSE                       # Project license
+├── CODE_OF_CONDUCT.md            # Code of conduct
+├── CONTRIBUTING.md               # Contribution guidelines (EN/ZH)
+├── ROADMAP.md                    # Project roadmap (EN/ZH)
+├── SUMMARY.md                    # Project summary (EN/ZH)
+├── docs/                        # Documentation hub
+│   ├── index.md                 # Documentation center entry (EN/ZH)
+│   ├── getting-started/         # Getting started guides
+│   │   ├── user-guide.md        # User manual (EN/ZH)
+│   │   └── quick-start.md       # Quick start guide (EN/ZH)
+│   ├── skill-lists-info/        # Skill lists information
+│   │   ├── overview.md          # Lists overview (EN/ZH)
+│   │   └── level-descriptions.md # Level descriptions (EN/ZH)
+│   └── community/               # Community support
+│       ├── faq.md               # Frequently asked questions (EN/ZH)
+│       └── contributing-guide.md # Contribution guide (EN/ZH)
+├── skill-lists/                 # Skill checklists by level
+│   ├── beginner/                # Beginner level
+│   │   ├── skills.md            # Skills checklist (EN/ZH)
+│   │   └── skills_en.md         # Skills checklist EN
+│   │   └── skills_zh.md         # Skills checklist ZH
+│   ├── intermediate/            # Intermediate level
+│   │   ├── skills.md            # Skills checklist (EN/ZH)
+│   │   └── skills_en.md         # Skills checklist EN
+│   │   └── skills_zh.md         # Skills checklist ZH
+│   ├── advanced/                # Advanced level
+│   │   ├── skills.md            # Skills checklist (EN/ZH)
+│   │   └── skills_en.md         # Skills checklist EN
+│   │   └── skills_zh.md         # Skills checklist ZH
+│   └── expert/                  # Expert level
+│       ├── skills.md            # Skills checklist (EN/ZH)
+│       └── skills_en.md         # Skills checklist EN
+│       └── skills_zh.md         # Skills checklist ZH
+├── resources/                   # Learning resources
+│   └── learning-resources.md    # Learning resources (EN/ZH)
+└── .github/                     # GitHub configurations
+    └── ISSUE_TEMPLATE/          # Issue templates
 ```
 
 ## Skill Levels
