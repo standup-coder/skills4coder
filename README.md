@@ -1,90 +1,110 @@
-# Vibe Coding Skills
+# Tech Skills Tree
 
-A comprehensive skill checklist and learning roadmap for Vibe Coders - developers who embrace the creative, collaborative, and joyful aspects of coding.
+A comprehensive skill tree project for developers, architects, testers, and operations professionals.
 
 ## 🌐 Languages
 - [English](README.md) | [中文](README_zh.md)
 
 ## Overview
 
-Vibe Coding represents a philosophy of programming that emphasizes creativity, collaboration, and joy in the development process. This project provides skill checklists for Vibe Coders at different experience levels, focusing on the unique aspects of coding that blend technical skills with creative expression and community building.
+Tech Skills Tree is an open-source project that provides comprehensive skill trees for different technology roles:
+
+- **Developers**: Core programming skills, frameworks, and development practices
+- **Architects**: System design, solution architecture, and technical leadership
+- **Testers**: Testing methodologies, automation, and quality assurance
+- **Operations**: Infrastructure, DevOps, and platform engineering
 
 ## Structure
 
-The project is organized by skill levels and vibe-centric development domains:
-
 ```
-vibe-coding-skills/
-├── README.md                     # Project overview (EN/ZH)
+tech-skills-tree/
+├── README.md                     # Project overview
 ├── LICENSE                       # Project license
 ├── CODE_OF_CONDUCT.md            # Code of conduct
-├── CONTRIBUTING.md               # Contribution guidelines (EN/ZH)
-├── ROADMAP.md                    # Project roadmap (EN/ZH)
-├── SUMMARY.md                    # Project summary (EN/ZH)
-├── docs/                        # Documentation hub
-│   ├── index.md                 # Documentation center entry (EN/ZH)
+├── CONTRIBUTING.md               # Contribution guidelines
+├── ROADMAP.md                    # Project roadmap
+├── SUMMARY.md                    # Project summary
+├── docs/                         # Documentation hub
+│   ├── index.md                 # Documentation center entry
 │   ├── getting-started/         # Getting started guides
-│   │   ├── user-guide.md        # User manual (EN/ZH)
-│   │   └── quick-start.md       # Quick start guide (EN/ZH)
-│   ├── vibe-coding-skills/      # Vibe coding specific skills
-│   │   ├── overview.md          # Vibe coding skills overview (EN/ZH)
-│   │   └── principles.md        # Core principles of vibe coding (EN/ZH)
+│   │   ├── user-guide.md        # User manual
+│   │   └── quick-start.md       # Quick start guide
+│   ├── dev-skills/              # Developer skills
+│   │   ├── overview.md          # Developer skills overview
+│   │   └── skills-lists/        # Developer skill lists by level
+│   ├── arch-skills/             # Architect skills
+│   │   ├── overview.md          # Architect skills overview
+│   │   └── skills-lists/        # Architect skill lists by level
+│   ├── testing-skills/          # Testing skills
+│   │   ├── overview.md          # Testing skills overview
+│   │   └── skills-lists/        # Testing skill lists by level
+│   ├── ops-skills/              # Operations skills
+│   │   ├── overview.md          # Operations skills overview
+│   │   └── skills-lists/        # Operations skill lists by level
 │   └── community/               # Community support
-│       ├── faq.md               # Frequently asked questions (EN/ZH)
-│       └── contributing-guide.md # Contribution guide (EN/ZH)
-├── skill-lists/                 # Vibe coding skill checklists by level
-│   ├── beginner/                # Beginner vibe coder
-│   │   ├── skills.md            # Skills checklist (EN/ZH)
-│   │   ├── skills_en.md         # Skills checklist EN
-│   │   └── skills_zh.md         # Skills checklist ZH
-│   ├── intermediate/            # Intermediate vibe coder
-│   │   ├── skills.md            # Skills checklist (EN/ZH)
-│   │   ├── skills_en.md         # Skills checklist EN
-│   │   └── skills_zh.md         # Skills checklist ZH
-│   ├── advanced/                # Advanced vibe coder
-│   │   ├── skills.md            # Skills checklist (EN/ZH)
-│   │   ├── skills_en.md         # Skills checklist EN
-│   │   └── skills_zh.md         # Skills checklist ZH
-│   └── expert/                  # Expert vibe coder
-│       ├── skills.md            # Skills checklist (EN/ZH)
-│       ├── skills_en.md         # Skills checklist EN
-│       └── skills_zh.md         # Skills checklist ZH
+│       ├── faq.md               # Frequently asked questions
+│       └── contributing-guide.md # Contribution guide
 └── .github/                     # GitHub configurations
     └── ISSUE_TEMPLATE/          # Issue templates
 ```
 
-## Vibe Coding Philosophy
+## Roles & Specializations
 
-Vibe Coding encompasses more than just writing code. It includes:
+### Developers
+Skills for software developers across different specializations:
+- **Frontend Development**: UI/UX, client-side frameworks, web technologies
+- **Backend Development**: Server-side technologies, databases, APIs
+- **Full Stack Development**: Both frontend and backend skills
+- **Mobile Development**: iOS, Android, cross-platform frameworks
+- **Data Engineering**: Data processing, ETL, analytics
+- **Machine Learning**: AI, ML frameworks, data science
 
-- **Creative Expression**: Using code as a medium for artistic and creative expression
-- **Collaborative Joy**: Finding joy in pair/mob programming and community building
-- **Mindful Development**: Being present and intentional while coding
-- **Playful Exploration**: Experimenting with code in a playful, non-judgmental way
-- **Community Connection**: Building relationships and sharing knowledge with fellow coders
+### Architects
+Skills for technical architects and system designers:
+- **Solution Architecture**: High-level system design and planning
+- **Enterprise Architecture**: Organizational technology strategy
+- **Cloud Architecture**: Cloud-native design and deployment
+- **Security Architecture**: Security-by-design principles
+- **Data Architecture**: Data governance and architecture
+
+### Testers
+Skills for quality assurance and testing professionals:
+- **Manual Testing**: Test planning, execution, and reporting
+- **Test Automation**: Automated testing frameworks and tools
+- **Performance Testing**: Load, stress, and performance testing
+- **Security Testing**: Vulnerability assessment and penetration testing
+- **QA Process**: Quality processes and methodologies
+
+### Operations
+Skills for DevOps, SRE, and platform engineers:
+- **Infrastructure**: Cloud, virtualization, containerization
+- **Automation**: CI/CD, configuration management, IaC
+- **Monitoring**: Observability, alerting, and incident response
+- **Security**: Infrastructure security, compliance, governance
+- **Platform Engineering**: Developer experience and platform tools
 
 ## How to Use
 
-### For Individual Vibe Coders
+### For Individual Professionals
+1. Identify your role and specialization
+2. Review the corresponding skill tree
+3. Assess your current proficiency level
+4. Plan your learning and development path
+5. Track your progress as you acquire new skills
 
-1. Identify your current vibe coding level
-2. Review the corresponding skill list
-3. Identify areas where you can enhance your vibe coding practice
-4. Use the suggested activities to develop your vibe coding skills
-5. Track your progress by checking off mastered skills
+### For Teams and Organizations
+1. Use skill trees as competency frameworks
+2. Identify team strengths and gaps
+3. Plan training and development initiatives
+4. Structure technical interviews and assessments
+5. Define career progression paths
 
-### For Vibe Coding Communities
-
-1. Use the skill lists as a guide for workshops and events
-2. Adapt content to fit specific community goals
-3. Create collaborative learning experiences
-4. Celebrate the unique aspects of coding joy
-
-### For Creative Coders
-
-1. Reference the skills when incorporating creative elements into your work
-2. Use as inspiration for new creative coding projects
-3. Assess and develop your creative coding abilities
+### For Educators and Mentors
+1. Use skill trees as curriculum guides
+2. Adapt content to specific learning objectives
+3. Create structured learning paths
+4. Assess student or mentee progress
+5. Provide targeted guidance
 
 ## Contributing
 
@@ -96,4 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to the creative coding community and all the developers who bring joy, artistry, and positive energy to the craft of programming.
+Special thanks to the technology community for sharing knowledge and best practices that make this project possible.
