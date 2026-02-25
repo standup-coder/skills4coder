@@ -1,0 +1,27 @@
+{
+  "name": "skills4coder",
+  "version": "1.0.0",
+  "description": "A comprehensive skill checklist and learning roadmap for developers of all levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standup-coder/skills4coder.git"
+  },
+  "keywords": [
+    "skills",
+    "checklist",
+    "roadmap",
+    "development",
+    "education",
+    "curriculum"
+  ],
+  "author": "Skills4Coder Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/standup-coder/skills4coder/issues"
+  },
+  "homepage": "https://github.com/standup-coder/skills4coder#readme"
+}
